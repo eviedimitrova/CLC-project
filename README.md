@@ -1,2 +1,4 @@
 # CLC-project
-Final_Degree_Project_YvetteDimitrova
+Final Degree Project - Yvette Dimitrova
+
+Supplementary information
